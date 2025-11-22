@@ -1,3 +1,6 @@
+<img width="960" height="1265" alt="image" src="https://github.com/user-attachments/assets/c555936f-c9be-426b-b8fb-7f5d2ac5c4f0" />
+
+
 # About 
 
 This is a grad school project I did right before the EURO '24 football competition. In short: the project recreates the 2019 paper of A.Groll (A hybrid random forest to predict soccer matches in international tournaments) adding some minor improvements, and then applies it to the EURO '24 tournament to get various predictions.
